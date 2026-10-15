@@ -17,7 +17,6 @@ env/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -77,3 +76,7 @@ Thumbs.db
 website/_site/
 # Temporary translation output prepared before replacing the complete site.
 website/.i18n-*/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
